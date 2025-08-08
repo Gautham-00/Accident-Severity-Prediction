@@ -52,7 +52,7 @@ The dataset is preprocessed, analyzed, and modeled using **Python** and **Machin
    - Evaluate using Accuracy, Precision, Recall, and F1-Score.
 
 6. **Results**
-   - Achieved **XX% Accuracy** on the test set. *(Replace with actual value)*
+   - Achieved **99.73% Accuracy** on the test set.
    - Key factors influencing accident severity include: *(List top features here)*
 
 ---
